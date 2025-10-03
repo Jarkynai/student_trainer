@@ -1,0 +1,5 @@
+category,question,option1,option2,option3,option4,answer
+Python,Как обозначается комментарий в Python?,//,#,/* */,<!-- -->,#
+Python,Какой тип данных возвращает функция input()?,int,str,float,bool,str
+Streamlit,Какой командой запускается приложение Streamlit?,python app.py,streamlit run app.py,flask run,node app.js,streamlit run app.py
+Streamlit,Какой метод используется для вывода текста в Streamlit?,st.print(),st.write(),st.text(),print(),st.write()
